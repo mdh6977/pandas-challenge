@@ -1,0 +1,7 @@
+	Throuhg our data analysis we can dicsovered a lot of interesing details, such as the total budget
+for the school district was $24,649,428.00 for a total of 39,170 students all of this is divided between 15 school. 
+Our average maths score is 78.98 and our average reading score is 81.8
+
+	1. First conclusion is that students divided by grade did more poorly on the math than reading. They scored lower 
+averages in math than reading.
+	2.Bailey High School has the greatest budget but one of the lowest overall testing scores.
